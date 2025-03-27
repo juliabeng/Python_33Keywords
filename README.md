@@ -34,13 +34,11 @@ This program includes multiple Python keywords:
    ```sh
    python bank_account.py
    ```
-3. The program will create two bank accounts (Alice and Bob) and demonstrate transactions and Python concepts.
+3. The program will create two bank accounts (Julia and Dale) and demonstrate transactions and Python concepts.
 
 ## Future Enhancements
 - Implement an interest calculation method.
 - Store transaction history for each account.
 - Add unit tests using `unittest` or `pytest`.
 
----
-This program serves as an educational example of Python programming concepts and best practices.
 
